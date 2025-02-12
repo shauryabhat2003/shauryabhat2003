@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 Hey There!
+# 🚀 Shaurya Bhatnagar | Full Stack Developer (MERN)  <br><br>🎯 Aspiring Software Engineer | Open-Source Enthusiast<br><br>Hey there! I'm Shaurya, a **Full Stack Developer (MERN)** with a strong foundation in **C++ and JavaScript**. I enjoy building scalable applications, optimizing backend systems, and leveraging AI for innovative solutions.  <br><br>## 🔹 Tech Stack & Skills  <br>- **Languages:** C++, JavaScript  <br>- **Frontend:** HTML, CSS, React.js  <br>- **Backend:** Node.js, Express.js  <br>- **Databases:** MongoDB, SQL  <br>- **Tools:** Git<br><br>## 💡 Work Experience  <br>### 🎯 Backend Intern @ Celebal Technologies (June 2024 - Aug 2024)  <br>- Engineered **scalable APIs** with Node.js & Express.js, boosting concurrent request handling by **30%**  <br>- Optimized MongoDB queries, improving database efficiency by **35%**  <br>- Ensured smooth frontend-backend integration in a team setting  <br><br>## 🚀 Notable Projects  <br>- **[BHAI - AI Chat App](https://github.com/shauryabhat2003/bhai)** 🤖 – Real-time chat platform powered by **Google Gemini AI & Clerk authentication**  <br>- **[AI Code Reviewer](https://ai-code-reviewer-io.onrender.com/)** 📝 – Web app for **AI-powered code analysis & syntax highlighting**  <br>- **[MedFirst - Healthcare Locator](https://github.com/shauryabhat2003/MedFirst)** 🏥 – **Location-based hospital finder** using Google Maps API  <br>- **[TrackIt - Expense Tracker](https://github.com/shauryabhat2003/Expense_Tracker_BrainTree)** 💰 – **Payment-integrated** tracker with Braintree, Google Pay, and PayPal  <br><br>## 🏆 Achievements  <br>- **96.01% in Round 1 of Young Turks (Naukri Campus)**  <br>- **Solved 200+ LeetCode problems**  <br>- **Active participant in hackathons & coding contests**  <br><br>## 📌 Find me here  <br>- 🔗 [LinkedIn](https://www.linkedin.com/in/shaurya-bhatnagar-418752263)  <br>- 🏆 [GitHub](https://github.com/shauryabhat2003)  <br><br>💡 Always open to collaborations, hackathons, and new challenges! 🚀  <br><br>
 
-<!--
-**shauryabhat2003/shauryabhat2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaurya-bhatnagar-418752263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shauryabhatnagar1511@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shauryabhat2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shauryabhat2003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryabhat2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shauryabhat2003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
