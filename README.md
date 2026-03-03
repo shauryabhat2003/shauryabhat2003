@@ -1,18 +1,68 @@
-# 💫 Hey There!
-# 🚀 Shaurya Bhatnagar | Full Stack Developer (MERN)  <br><br>🎯 Aspiring Software Engineer | Open-Source Enthusiast<br><br>Hey there! I'm Shaurya, a **Full Stack Developer (MERN)** with a strong foundation in **C++ and JavaScript**. I enjoy building scalable applications, optimizing backend systems, and leveraging AI for innovative solutions.  <br><br>## 🔹 Tech Stack & Skills  <br>- **Languages:** C++, JavaScript  <br>- **Frontend:** HTML, CSS, React.js  <br>- **Backend:** Node.js, Express.js  <br>- **Databases:** MongoDB, SQL  <br>- **Tools:** Git<br><br>## 💡 Work Experience  <br>### 🎯 Backend Intern @ Celebal Technologies (June 2024 - Aug 2024)  <br>- Engineered **scalable APIs** with Node.js & Express.js, boosting concurrent request handling by **30%**  <br>- Optimized MongoDB queries, improving database efficiency by **35%**  <br>- Ensured smooth frontend-backend integration in a team setting  <br><br>## 🚀 Notable Projects  <br>- **[BHAI - AI Chat App](https://github.com/shauryabhat2003/bhai)** 🤖 – Real-time chat platform powered by **Google Gemini AI & Clerk authentication**  <br>- **[AI Code Reviewer](https://ai-code-reviewer-io.onrender.com/)** 📝 – Web app for **AI-powered code analysis & syntax highlighting**  <br>- **[CareAnywhere](https://github.com/shauryabhat2003/CareAnywhere)** 🏥 – **Telehealth Application built** using Google Maps API, Google Cloud Speech-to-text, Stripe, WebRTC  <br>- **[TrackIt - Expense Tracker](https://github.com/shauryabhat2003/Expense_Tracker_BrainTree)** 💰 – **Payment-integrated** tracker with Braintree, Google Pay, and PayPal  <br><br>## 🏆 Achievements  <br>- **96.01% in Round 1 of Young Turks (Naukri Campus)**  <br>- **Solved 200+ LeetCode problems**  <br>- **Active participant in hackathons & coding contests**  <br><br>## 📌 Find me here  <br>- 🔗 [LinkedIn](https://www.linkedin.com/in/shaurya-bhatnagar-418752263)  <br>- 🏆 [GitHub](https://github.com/shauryabhat2003)  <br><br>💡 Always open to collaborations, hackathons, and new challenges! 🚀  <br><br>
+# Hey There!
+# 🚀 Shaurya Bhatnagar | Full Stack Developer & AI Engineer
 
+**🌐 My Interactive Portfolio:** [shauryabhat2003.vercel.app](https://shauryabhat2003.vercel.app/)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaurya-bhatnagar-418752263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shauryabhatnagar1511@gmail.com) 
+🎯 **Aspiring Software Engineer | Open-Source Enthusiast**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-# 📊 GitHub Stats:
+Hey there! I'm Shaurya, a **Software Engineer** specializing in full-stack architecture, distributed systems, and AI integration. I enjoy building highly scalable applications, optimizing complex backend infrastructure, and leveraging advanced AI frameworks (like Agentic RAG and Gemini) to craft innovative web solutions.
+
+<br>
+
+## 🔹 Tech Stack & Skills
+- **Languages:** C++, C#, JavaScript, TypeScript, Python
+- **Frontend:** Next.js, React.js, Tailwind CSS, HTML5, CSS3, Framer Motion
+- **Backend:** .NET Core, .NET Framework, Node.js, Express.js
+- **Databases:** PostgreSQL, SQL, MongoDB, Supabase, Firebase
+- **Cloud & Tools:** Azure, Vercel, Git
+
+<br>
+
+## 💡 Work Experience
+### 🎯 Software Engineer @ Veersa Technologies (Aug 2025 - Present)
+- Designed and implemented scalable backend services using **.NET Core** and **Azure** to support AI-driven workloads.
+- Owned the end-to-end lifecycle of production AI applications from architecture design to deployment.
+- Reduced AI processing latency by **75%** by optimizing prompt orchestration and asynchronous pipelines.
+
+### 🎯 SDE Intern @ Veersa Technologies (Mar 2025 - Jul 2025)
+- Engineered full-stack features using **ReactJS** and **.NET Framework** to enhance internal enterprise applications.
+- Optimized SQL database schemas and queries, significantly reducing data load times for reporting dashboards.
+
+### 🎯 Backend Intern @ Celebal Technologies (June 2024 - Aug 2024)
+- Engineered scalable APIs with **Node.js** & **Express.js**, boosting concurrent request handling by **30%**.
+- Optimized MongoDB queries, improving database efficiency by **35%**.
+
+<br>
+
+## 🚀 Notable Projects
+- **[Meeting Action Item Enforcer](https://meeting-action-enforcer.vercel.app/)** 🎙️ – Distributed system transforming meeting transcripts into structured action items using **Google Gemini, Next.js, and Python Whisper bots**.
+- **[Relate](https://www.relate.us/)** 🤝 – AI-driven platform analyzing trust behaviors, leveraging **Next.js, Supabase, .NET, and Azure SQL**.
+- **[AI Code Reviewer](https://ai-code-reviewer-io.onrender.com/)** 📝 – Web application connected to a strict Express backend for **AI-powered Code analysis and refactoring** using Gemini.
+- **[ATLAS](https://atlas-qvwy.onrender.com/)** 💬 – Premium AI chat assistant with multi-modal capabilities wrapped in a sleek glassmorphism UI.
+
+<br>
+
+## 🏆 Achievements
+- **96.01% in Round 1 of Young Turks (Naukri Campus)**
+- **Solved 200+ LeetCode problems**
+- **Active participant in hackathons & coding contests**
+
+<br>
+
+## 📌 Find me here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-bhatnagar-418752263/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shauryabhatnagar1511@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Vercel&logoColor=white)](https://shauryabhat2003.vercel.app/)
+
+<br>
+
+# 💻 Technology Arsenal
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+<br>
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shauryabhat2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shauryabhat2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryabhat2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shauryabhat2003&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
